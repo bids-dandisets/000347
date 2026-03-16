@@ -1,0 +1,17 @@
+{
+    "Name": "Multiphoton imaging in macaque visual cortex (preliminary data)",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Two- and three-photon imaging from V1/V2 labeled with GCaMP6s. Grating stimuli (sf x dir).",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
