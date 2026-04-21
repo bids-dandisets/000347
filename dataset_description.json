@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Two- and three-photon imaging from V1/V2 labeled with GCaMP6s. Grating stimuli (sf x dir).",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Chatterjee, Soumya"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
